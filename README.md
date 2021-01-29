@@ -19,7 +19,7 @@ Material Dashboard is a free Material Bootstrap 4 Admin with a fresh, new design
 > Links
 
 - [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - product page
-- [Django Dashboard Material - Demo](https://django-dashboard-material.appseed.us/) - LIVE App
+- [Django Dashboard Material - Demo](https://django-material-dashboard.appseed-srv1.com/) - LIVE App
 - [Django Dashboard Material - Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-material/) - product documentation
 
 <br />
@@ -218,4 +218,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard](https://appseed.us/admin-dashboards/django?ref=gh) Material Design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](https://appseed.us/admin-dashboards/django?ref=gh) Material Design - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
